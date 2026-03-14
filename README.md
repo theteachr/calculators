@@ -17,11 +17,12 @@ An assortment of reverse polish notation calculators in different languages
 - Divide by zero behaviour is undefined
 - Invalid input must not terminate execution
 
-**Formatting**
+**Style**
 - Must be a single file beginning with a shebang which runs the program
 - Use hard tabs for indentation
 - File must have the executable bit set
 - The smaller and the more optimized the solution the better :)
+- Solution should be as language idiomatic as possible
 
 ## Test Cases:
 ```rs
@@ -67,3 +68,4 @@ An assortment of reverse polish notation calculators in different languages
 - Scala
 - Kotlin
 - Gleam
+- Pascal
