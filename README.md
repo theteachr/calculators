@@ -38,7 +38,6 @@ An assortment of reverse polish notation calculators in different languages
 - F#
 - TypeScript
 - x86 ASM
-- Raku
 - Odin
 - C3
 - Zig
