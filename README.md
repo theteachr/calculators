@@ -67,3 +67,5 @@ An assortment of reverse polish notation calculators in different languages
 - Kotlin
 - Gleam
 - Pascal
+- PHP
+- WAT
