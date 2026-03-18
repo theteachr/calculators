@@ -2,7 +2,11 @@
 
 while True:
 	stack = []
-	for e in input().split(" "):
+
+	try: s = input()
+	except KeyboardInterrupt: exit()
+
+	for e in s.split(" "):
 		if e.isdigit() or e.startswith("-") and e[1:].isdigit():
 			stack.append(int(e))
 			continue
