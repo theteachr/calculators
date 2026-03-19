@@ -3,9 +3,9 @@ An assortment of reverse polish notation calculators in different languages
 ## Rules
 
 **Behaviour**
-- Read input from stdin
+- Read unspecified size input from stdin
 - Write output to stdout after a newline
-- Must handle negative numbers
+- Must handle values from `-2^63` to `2^63-1`
 - Division should be truncating
 - Must exit after recieving a CTRL-C interrupt
 
