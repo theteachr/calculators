@@ -41,7 +41,6 @@ An assortment of reverse polish notation calculators in different languages
 - Odin
 - C3
 - Zig
-- Go
 - Hare
 - Dart
 - BQN
